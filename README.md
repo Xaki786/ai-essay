@@ -1,46 +1,13 @@
-# Getting Started with Create React App
+Assessment:
+You’re working on an application that gives users an AI Essay. The product person on your team has stated that our machine learning team needs more feedback from users about the essays, and our product team needs more feedback from users about the site. They also would like to increase the number of reviews written about our website. He has created a task for you below:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ticket:
+GOAL: get as much feedback as possible from our users about the essay results and our website. Users that give the best feedback should be asked to write a review.
+TASK: Above the essay, create a feedback section that asks users for a 1-5 star rating on the essay, then a 1-5 star rating about the site, and finally, if the user submitted 5 stars for both, ask the user to leave us a review on a 3rd party (like TrustPilot). Make sure to track (with an example/mock function) when the user clicks the “leave us a review” button.
 
-## Available Scripts
+Instructions: Total coding time should be limited to 45-60 minutes. It is NOT necessary to fully complete the coding task. Use create react app (typescript preferred) to create this assessment app page which includes only a sample essay and your feedback component logic. Add a sample Essay component with sample text (such as lorum ipsum) to showcase where the essay will be positioned in comparison to your feedback component. As a mid-senior developer, you should consider every aspect of a ticket as it pertains to the goal. Feel free to change the task in ANY way to improve the company’s chances of reaching the goal. STOP coding anywhere between 45-60 minutes. At this point, you will “hand the task” over to another developer/team member. Please write down a message to the developer including EVERYTHING they need to know to complete the task. You can also add code comments after time has passed if that makes it easier. Your message should include unfinished functions, backend endpoints (if applicable), and anything to watch out for or look into. BEFORE starting the task, spend at least a few minutes thinking it over. The purpose of this last step is to get the task fully "finished" as it pertains to your end.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Deliverables:
+- your code as zip file, or github link
+- message to the fellow developer
+- screen shots (only the feedback component will be considered for visual effect)
